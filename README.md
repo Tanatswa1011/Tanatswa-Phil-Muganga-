@@ -1,6 +1,7 @@
+![Tana](https://raw.githubusercontent.com/Tanatswa1011/Tanatswa-Phil-Muganga-/main/Tana.jpg)
 ### Hi there 👋, I am Tana
 #### Welcome to my development world 
-![Tana](https://raw.githubusercontent.com/Tanatswa1011/Tanatswa-Phil-Muganga-/main/Tana.jpg)
+
 
 
 I am passionate learner in computer science, fascinated by blockchain and cryptocurrencies. Let's code, collaborate, and create together! 💻
