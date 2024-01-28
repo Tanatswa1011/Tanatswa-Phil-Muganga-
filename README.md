@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Tana
 #### Welcome to my development world 
-(https://github.com/Tanatswa1011/Tanatswa-Phil-Muganga-/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+(https://github.com/Tanatswa1011/Tanatswa-Phil-Muganga-/blob/main/Tana.jpg)
 
 I am passionate learner in computer science, fascinated by blockchain and cryptocurrencies. Let's code, collaborate, and create together! 💻
 
